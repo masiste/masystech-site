@@ -22,7 +22,7 @@ body{
 
 header{
     height: 100vh;
-    background-image: linear-gradient(to top, rgba(140, 147, 209, 0.13) 0%, rgba(194, 200, 251, 0.151) 100%), url(../img/trabajoequipo.jpg);
+    background-image: linear-gradient(to top, #8caad181 0%, rgba(194, 200, 251, 0.527) 100%), url(../img/trabajoequipo.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -52,7 +52,7 @@ header{
     box-shadow: 0 0 6px rgba(0, 0, 0, .5);  
 }
 
-.menu-navegacion{
+/* .menu-navegacion{
     position: fixed;
     top: 0;
     right: 0;
@@ -66,7 +66,7 @@ header{
     /* transition: transform .3s ease-in-out; */
     transform: translate(110%);
     box-shadow: 0 0 6px rgba(0, 0, 0, .5);
-}
+} */
 
 .spread{
     transform: translate(0);
